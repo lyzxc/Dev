@@ -4,4 +4,8 @@ ehthumbs.db
 Desktop.ini
 
 #VS:
-.vs
+/.vs
+
+/Judy.Entity/Migrations
+/Judy.Entity/obj
+/Judy.Entity/bin
